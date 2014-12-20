@@ -35,6 +35,16 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 ``ruby``
 
+#### Going the Distance [∞](https://github.com/schneems/going_the_distance)
+
+Several scripts that do various word distance calculations (Levenshtein, Hamming, Jaro-Winkler Distance, …)
+
+#### gifshot [∞](https://github.com/yahoo/gifshot)
+
+> JavaScript library that can create animated GIFs from media streams, videos, or images
+
+``javascript``
+
 ## APIs
 
 #### Wordnik API [∞](http://api.wordnik.com)
