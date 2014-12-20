@@ -3,7 +3,12 @@ Toolbox
 
 A collection of tools, APIs and other resources to use in creative coding projects. Suggestions to improve this list (via PR) are welcomed. 
 
----
+**Table of contents**
+
+* [Tools](#tools)
+* [APIs](#apis)
+
+## Tools
 
 #### Inflection-js [∞](https://github.com/sonnym/inflection-js)  
 
