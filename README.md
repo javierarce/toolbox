@@ -21,11 +21,15 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 ``javascript``
 
+___
+
 #### wordfilter [∞](https://github.com/dariusk/wordfilter)
 
 > A small module meant for use in text generators that lets you filter strings for bad words.
 
 ``javascript``
+
+___
 
 #### OCRAD.js [∞](http://antimatter15.com/ocrad.js/demo.html)
 
@@ -33,11 +37,15 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 ``javascript``
 
+___
+
 #### SunCalc [∞](https://github.com/mourner/suncalc)
 
 > A tiny JavaScript library for calculating sun/moon positions and phases.
 
 ``javascript``
+
+___
 
 #### twitter_ebooks [∞](https://github.com/mispy/twitter_ebooks)
 
