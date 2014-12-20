@@ -51,6 +51,12 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 ``node.js``
 
+#### zip.js [∞](http://gildas-lormeau.github.com/zip.js/) 
+
+> An open-source library (BSD license) for zipping and unzipping files.
+
+``javascript``
+
 ## APIs
 
 #### Wordnik API [∞](http://api.wordnik.com)
