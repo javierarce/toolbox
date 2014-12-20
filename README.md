@@ -9,9 +9,9 @@ Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox
 **Table of contents**
 
 * [Tools](#tools)
-  * [JavaScript](#javascript)
-  * [Ruby](#ruby)
-  * [Node.js](#nodejs)
+  [JavaScript](#javascript)
+  [Ruby](#ruby)
+  [Node.js](#nodejs)
 * [APIs](#apis)
 
 ___
@@ -66,10 +66,13 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > The Wordnik API lets you request definitions, example sentences, spelling suggestions, related words like synonyms and antonyms, phrases containing a given word, word autocompletion, random words, words of the day, and much more.
 
+#### Wikipedia API [](http://www.mediawiki.org/wiki/API:Main_page)
+
+> The MediaWiki web API can be used to monitor a MediaWiki installation, or create a bot to automatically maintain one. It provides direct, high-level access to the data contained in MediaWiki databases.
+
 #### Corpora [∞](https://github.com/dariusk/corpora)
 
 > A collection of small corpuses of interesting data for the creation of bots and similar stuff.
-
 
 #### Countries [∞](https://github.com/mledoze/countries)
 
