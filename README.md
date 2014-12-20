@@ -1,13 +1,17 @@
 Toolbox
 =====
 
-### Inflection-js
+A collection of tools, APIs and other resources to use in creative coding projects. Suggestions to improve this list (via PR) are welcomed. 
+
+---
+
+#### Inflection-js
 
 [Inflection-js](https://github.com/sonnym/inflection-js)  
 
 A port of the functionality from Ruby on Rails' Active Support Inflection classes into Javascript.
 
-### Corpora
+#### Corpora
 
 [corpora](https://github.com/dariusk/corpora)
 
@@ -18,7 +22,7 @@ Corpora is a collection of small files. It is not meant to be an exhaustive sour
 
 > Some lists are small enough by nature that we may contain a complete list of things in their category. For example, a list of heavily populated U.S. cities may only have 75 cities and be considered complete.
 
-### OCRAD.js
+#### OCRAD.js
 
 [OCRAD.js](http://antimatter15.com/ocrad.js/demo.html)
 
@@ -26,7 +30,7 @@ Corpora is a collection of small files. It is not meant to be an exhaustive sour
 
 ## APIs
 
-### Wordnik API
+#### Wordnik API
 
 [Wordnik API](http://api.wordnik.com)
 
