@@ -9,7 +9,7 @@ A collection of tools, APIs and other resources to use in creative coding projec
 
 A port of the functionality from Ruby on Rails' Active Support Inflection classes into Javascript.
 
-#### Corpora [∞](https://github.com/dariusk/corpora)
+#### Corpora [→](https://github.com/dariusk/corpora)
 
 > A collection of small corpuses of interesting data for the creation of bots and similar stuff.
 
