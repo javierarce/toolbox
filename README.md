@@ -51,6 +51,10 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > A framework for building interactive twitterbots which respond to mentions/DMs. 
 
+#### RAE downloader [∞](https://github.com/raul/rae-downloader)
+
+> Scripts to download data from the Dictionary of Spanish Language of the Royal Spanish Academy
+
 #### Going the Distance [∞](https://github.com/schneems/going_the_distance)
 
 Several scripts that do various word distance calculations (Levenshtein, Hamming, Jaro-Winkler Distance, …)
@@ -67,7 +71,7 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > Extract text from any document. No muss. No fuss.
 
-
+___
 
 ## APIs
 
