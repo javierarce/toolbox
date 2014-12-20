@@ -9,9 +9,9 @@ Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox
 **Table of contents**
 
 * [Tools](#tools)
-  [JavaScript](#javascript)
-  [Ruby](#ruby)
-  [Node.js](#nodejs)
+  [JavaScript](#javascript)  
+  [Ruby](#ruby)  
+  [Node.js](#nodejs)  
 * [APIs](#apis)
 
 ___
