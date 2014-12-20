@@ -11,7 +11,7 @@ Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox
 * [Tools](#tools)
   * [JavaScript](#javascript)
   * [Ruby](#ruby)
-  * [Node.js](#node-js)
+  * [Node.js](#nodejs)
 * [APIs](#apis)
 
 ___
