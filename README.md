@@ -37,9 +37,9 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 ## APIs
 
-#### Wordnik API
+#### Wordnik API [∞](http://api.wordnik.com)
 
-[Wordnik API](http://api.wordnik.com)
+> The Wordnik API lets you request definitions, example sentences, spelling suggestions, related words like synonyms and antonyms, phrases containing a given word, word autocompletion, random words, words of the day, and much more.
 
 #### Corpora [∞](https://github.com/dariusk/corpora)
 
