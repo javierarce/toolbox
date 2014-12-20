@@ -45,6 +45,12 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 ``javascript``
 
+#### wikichanges [∞](https://github.com/edsu/wikichanges)
+
+> a node.js library for getting an edit stream from the 37 major language Wikipedias. The Wikipedia MediaWiki installations are configured to log changes in specific IRC channels. wikichanges joins all these channels, listens for updates, which it then parses, and sends as JavaScript objects to a callback of your choosing. x
+
+``node.js``
+
 ## APIs
 
 #### Wordnik API [∞](http://api.wordnik.com)
@@ -54,3 +60,8 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 #### Corpora [∞](https://github.com/dariusk/corpora)
 
 > A collection of small corpuses of interesting data for the creation of bots and similar stuff.
+
+
+#### Countries [∞](https://github.com/mledoze/countries)
+
+> This repository contains lists of world countries in JSON, CSV and XML.
