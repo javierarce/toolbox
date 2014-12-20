@@ -2,7 +2,7 @@
 Toolbox
 =====
 
-A collection of tools, APIs and other resources to use in creative coding projects. 
+A collection of tools, APIs and other resources to use in creative coding web projects. 
 
 Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox/pulls)) are welcomed. 
 
@@ -12,6 +12,7 @@ Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox
   * [JavaScript](#javascript)  
   * [Ruby](#ruby)  
   * [Node.js](#nodejs)  
+  * [Python](#python)
 * [APIs](#apis)
 
 ___
@@ -59,6 +60,14 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 #### wikichanges [∞](https://github.com/edsu/wikichanges)
 
 > a node.js library for getting an edit stream from the 37 major language Wikipedias. The Wikipedia MediaWiki installations are configured to log changes in specific IRC channels. wikichanges joins all these channels, listens for updates, which it then parses, and sends as JavaScript objects to a callback of your choosing. x
+
+### Python
+
+#### textract [∞](https://github.com/deanmalmgren/textract)
+
+> Extract text from any document. No muss. No fuss.
+
+
 
 ## APIs
 
