@@ -45,6 +45,10 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > An open-source library (BSD license) for zipping and unzipping files.
 
+#### Color Thief [∞](https://github.com/lokesh/color-thief)
+
+> A script for grabbing the color palette from an image. Uses Javascript and the canvas tag to make it happen.
+
 ### Ruby
 
 #### twitter_ebooks [∞](https://github.com/mispy/twitter_ebooks)
@@ -64,6 +68,10 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 #### wikichanges [∞](https://github.com/edsu/wikichanges)
 
 > a node.js library for getting an edit stream from the 37 major language Wikipedias. The Wikipedia MediaWiki installations are configured to log changes in specific IRC channels. wikichanges joins all these channels, listens for updates, which it then parses, and sends as JavaScript objects to a callback of your choosing. x
+
+#### country-reverse-geocoding [∞](https://github.com/totemstech/country-reverse-geocoding)
+
+> NodeJS module to reverse geocoding of countries.
 
 ### Python
 
