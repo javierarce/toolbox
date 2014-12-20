@@ -1,4 +1,3 @@
-<a href="https://gratipay.com/javier"><img src="//img.shields.io/gratipay/javier.svg"></a>
 
 Toolbox
 =====
