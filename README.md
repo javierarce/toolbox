@@ -13,7 +13,7 @@ Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox
   * [Ruby](#ruby)  
   * [Node.js](#nodejs)  
   * [Python](#python)
-* [APIs](#apis)
+* [APIs and datasets](#apis)
 
 ___
 
@@ -81,7 +81,7 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 ___
 
-## APIs
+## APIs &amp; datasets
 
 #### Wordnik API [∞](http://api.wordnik.com)
 
@@ -98,3 +98,9 @@ ___
 #### Countries [∞](https://github.com/mledoze/countries)
 
 > This repository contains lists of world countries in JSON, CSV and XML.
+
+
+#### Awesome Public Datasets [∞](https://github.com/caesar0301/awesome-public-datasets)
+
+> This list of public data sources are collected and tidyed from blogs, answers, and user reponses. Most of the data sets listed below are free, however, some are not.
+
