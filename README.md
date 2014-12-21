@@ -49,6 +49,10 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > A script for grabbing the color palette from an image. Uses Javascript and the canvas tag to make it happen.
 
+#### Chroma.js  [∞](https://github.com/gka/chroma.js)
+
+> Chroma.js is a tiny JavaScript library (8.5kB) for all kinds of color conversions and color scales.
+
 ### Ruby
 
 #### twitter_ebooks [∞](https://github.com/mispy/twitter_ebooks)
