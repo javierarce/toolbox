@@ -2,18 +2,18 @@
 T∞lbox
 =====
 
-A collection of tools, APIs and other resources to use in creative coding web projects. 
+A collection of tools, APIs and other resources to use in creative coding web projects.  
 
-Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox/pulls)) are welcomed. 
+Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox/pulls)) are welcomed.  
 
-**Table of contents**
+**Table of contents:**
 
 * [Tools](#tools)
   * [JavaScript](#javascript)  
   * [Ruby](#ruby)  
   * [Node.js](#nodejs)  
   * [Python](#python)
-* [APIs and datasets](#apis)
+* [APIs and datasets](#apis--datasets)
 
 ___
 
@@ -103,4 +103,3 @@ ___
 #### Awesome Public Datasets [∞](https://github.com/caesar0301/awesome-public-datasets)
 
 > This list of public data sources are collected and tidyed from blogs, answers, and user reponses. Most of the data sets listed below are free, however, some are not.
-
