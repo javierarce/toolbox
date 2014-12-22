@@ -103,7 +103,11 @@ ___
 
 > This repository contains lists of world countries in JSON, CSV and XML.
 
-
 #### Awesome Public Datasets [∞](https://github.com/caesar0301/awesome-public-datasets)
 
 > This list of public data sources are collected and tidyed from blogs, answers, and user reponses. Most of the data sets listed below are free, however, some are not.
+
+
+#### Open Library Covers API [∞](https://openlibrary.org/dev/docs/api/covers)
+
+> Our Covers API provides a programmatic method to access the book covers and author photos available in the Open Library Covers Repository.
