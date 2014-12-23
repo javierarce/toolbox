@@ -111,3 +111,9 @@ ___
 #### Open Library Covers API [∞](https://openlibrary.org/dev/docs/api/covers)
 
 > Our Covers API provides a programmatic method to access the book covers and author photos available in the Open Library Covers Repository.
+
+#### Gender API [∞](https://github.com/OpenGenderTracking/gender-api)
+
+> A very simple API to get gender probability on a name and/or article.
+
+https://github.com/OpenGenderTracking/gender-api
