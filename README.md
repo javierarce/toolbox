@@ -53,6 +53,9 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > Chroma.js is a tiny JavaScript library (8.5kB) for all kinds of color conversions and color scales.
 
+___
+
+
 ### Ruby
 
 #### twitter_ebooks [∞](https://github.com/mispy/twitter_ebooks)
@@ -71,6 +74,8 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > Beauvoir is a gem for guessing a person's gender by their first name.
 
+___
+
 ### Node.js
 
 #### wikichanges [∞](https://github.com/edsu/wikichanges)
@@ -80,6 +85,12 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 #### country-reverse-geocoding [∞](https://github.com/totemstech/country-reverse-geocoding)
 
 > NodeJS module to reverse geocoding of countries.
+
+#### gender-probability [∞](https://github.com/dariusk/gender-probability)
+
+> Providing gender probabilities for US/UK names using Open Gender Tracker's Global Name Data resource.
+
+___
 
 ### Python
 
