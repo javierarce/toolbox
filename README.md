@@ -67,6 +67,10 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 Several scripts that do various word distance calculations (Levenshtein, Hamming, Jaro-Winkler Distance, …)
 
+#### Beauvoir [∞](https://github.com/OpenGenderTracking/beauvoir)
+
+> Beauvoir is a gem for guessing a person's gender by their first name.
+
 ### Node.js
 
 #### wikichanges [∞](https://github.com/edsu/wikichanges)
