@@ -115,5 +115,3 @@ ___
 #### Gender API [∞](https://github.com/OpenGenderTracking/gender-api)
 
 > A very simple API to get gender probability on a name and/or article.
-
-https://github.com/OpenGenderTracking/gender-api
