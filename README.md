@@ -74,6 +74,10 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > Beauvoir is a gem for guessing a person's gender by their first name.
 
+#### Treat [∞](https://github.com/louismullie/treat)
+
+> Treat is a toolkit for natural language processing and computational linguistics in Ruby. 
+
 ___
 
 ### Node.js
