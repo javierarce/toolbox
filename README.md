@@ -146,7 +146,6 @@ ___
 
 > This list of public data sources are collected and tidyed from blogs, answers, and user reponses. Most of the data sets listed below are free, however, some are not.
 
-
 #### Open Library Covers API [∞](https://openlibrary.org/dev/docs/api/covers)
 
 > Our Covers API provides a programmatic method to access the book covers and author photos available in the Open Library Covers Repository.
@@ -154,3 +153,7 @@ ___
 #### Gender API [∞](https://github.com/OpenGenderTracking/gender-api)
 
 > A very simple API to get gender probability on a name and/or article.
+
+#### Project Gutenberg: the CD and DVD Project [∞](http://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project)
+
+> CDs and DVDs containing books from the Project Gutenberg. 
