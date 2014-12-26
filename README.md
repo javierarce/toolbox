@@ -106,6 +106,10 @@ ___
 
 > Color Namer is an npm package for use in Node.js or the browser that calculates color distance using the Delta-E color difference technique. Given a color in Hexadecimal RGB, RGBA, HSL, or HSV format, it converts the color to the Lab color space, then calculates the color's Euclidean distance from a set of colors with known names.
 
+#### ExampleBot [∞](https://github.com/dariusk/examplebot)
+
+> A simple example Twitter bot using NodeJS.
+
 ___  
   
 ### Python
