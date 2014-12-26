@@ -103,6 +103,10 @@ ___
 
 > Providing gender probabilities for US/UK names using Open Gender Tracker's Global Name Data resource.
 
+#### Color Namer [∞](https://github.com/zeke/color-namer)
+
+> Color Namer is an npm package for use in Node.js or the browser that calculates color distance using the Delta-E color difference technique. Given a color in Hexadecimal RGB, RGBA, HSL, or HSV format, it converts the color to the Lab color space, then calculates the color's Euclidean distance from a set of colors with known names.
+
 ___  
   
 ### Python
