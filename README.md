@@ -110,6 +110,10 @@ ___
 
 > Extract text from any document. No muss. No fuss.
 
+#### gutengrep [∞](https://github.com/hugovk/gutengrep/)
+
+> Find whole sentences matching a regex in Project Gutenberg plain text files.
+
 ___
 
 ## APIs &amp; datasets
