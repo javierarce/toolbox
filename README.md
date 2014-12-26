@@ -15,7 +15,8 @@ Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox
   * [Python](#python)
 * [APIs and datasets](#apis--datasets)
 
-___
+___  
+
 
 ## Tools
 
@@ -61,7 +62,7 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > This module contains the top 100-ish ebooks on Project Gutenberg, and lets you search them for all sentences containing a particular substring.
 
-___
+___  
 
 
 ### Ruby
@@ -86,7 +87,7 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > Treat is a toolkit for natural language processing and computational linguistics in Ruby. 
 
-___
+___  
 
 ### Node.js
 
@@ -102,8 +103,8 @@ ___
 
 > Providing gender probabilities for US/UK names using Open Gender Tracker's Global Name Data resource.
 
-___
-
+___  
+  
 ### Python
 
 #### textract [∞](https://github.com/deanmalmgren/textract)
