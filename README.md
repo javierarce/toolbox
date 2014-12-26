@@ -57,6 +57,10 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > A javascript library which converts Gregorian dates to the Pataphysical Calendar
 
+#### gutencorpus [∞](https://github.com/dariusk/gutencorpus)
+
+> This module contains the top 100-ish ebooks on Project Gutenberg, and lets you search them for all sentences containing a particular substring.
+
 ___
 
 
