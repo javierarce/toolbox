@@ -49,9 +49,13 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > A script for grabbing the color palette from an image. Uses Javascript and the canvas tag to make it happen.
 
-#### Chroma.js  [∞](https://github.com/gka/chroma.js)
+#### Chroma.js [∞](https://github.com/gka/chroma.js)
 
 > Chroma.js is a tiny JavaScript library (8.5kB) for all kinds of color conversions and color scales.
+
+#### pataphysical-date [∞](https://github.com/mmai/pataphysical-date)
+
+> A javascript library which converts Gregorian dates to the Pataphysical Calendar
 
 ___
 
