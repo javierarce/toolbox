@@ -2,7 +2,7 @@
 T∞lbox
 =====
 
-A collection of tools, APIs and other resources to use in creative coding web projects.  
+T∞lbox is a collection of simple (yet amazing) tools, APIs and other resources to use in creative coding web projects.  
 
 Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox/pulls)) are welcomed.  
 
@@ -16,7 +16,6 @@ Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox
 * [APIs and datasets](#apis--datasets)
 
 ___  
-
 
 ## Tools
 
