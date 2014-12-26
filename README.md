@@ -13,7 +13,8 @@ Suggestions to improve this list (via [PR](https://github.com/javierarce/toolbox
   * [Ruby](#ruby)  
   * [Node.js](#nodejs)  
   * [Python](#python)
-* [APIs and datasets](#apis--datasets)
+* [APIs](#apis)
+* [Datasets](#datasets)
 
 ___  
 
@@ -124,7 +125,7 @@ ___
 
 ___
 
-## APIs &amp; datasets
+## APIs
 
 #### Wordnik API [∞](http://api.wordnik.com)
 
@@ -133,6 +134,18 @@ ___
 #### Wikipedia API [](http://www.mediawiki.org/wiki/API:Main_page)
 
 > The MediaWiki web API can be used to monitor a MediaWiki installation, or create a bot to automatically maintain one. It provides direct, high-level access to the data contained in MediaWiki databases.
+
+#### Open Library Covers API [∞](https://openlibrary.org/dev/docs/api/covers)
+
+> Our Covers API provides a programmatic method to access the book covers and author photos available in the Open Library Covers Repository.
+
+#### Gender API [∞](https://github.com/OpenGenderTracking/gender-api)
+
+> A very simple API to get gender probability on a name and/or article.
+
+___
+
+## Datasets
 
 #### Corpora [∞](https://github.com/dariusk/corpora)
 
@@ -145,14 +158,6 @@ ___
 #### Awesome Public Datasets [∞](https://github.com/caesar0301/awesome-public-datasets)
 
 > This list of public data sources are collected and tidyed from blogs, answers, and user reponses. Most of the data sets listed below are free, however, some are not.
-
-#### Open Library Covers API [∞](https://openlibrary.org/dev/docs/api/covers)
-
-> Our Covers API provides a programmatic method to access the book covers and author photos available in the Open Library Covers Repository.
-
-#### Gender API [∞](https://github.com/OpenGenderTracking/gender-api)
-
-> A very simple API to get gender probability on a name and/or article.
 
 #### Project Gutenberg: the CD and DVD Project [∞](http://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project)
 
