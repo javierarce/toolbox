@@ -87,6 +87,10 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > Treat is a toolkit for natural language processing and computational linguistics in Ruby. 
 
+#### moment [∞](https://github.com/moment/moment)
+
+> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+
 ___  
 
 ### Node.js
