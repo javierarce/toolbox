@@ -91,6 +91,11 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
+#### Random.js [∞](https://github.com/ckknight/random-js)
+
+> This is designed to be a mathematically correct random number generator library for JavaScript.
+
+
 ___  
 
 ### Node.js
