@@ -62,6 +62,14 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > This module contains the top 100-ish ebooks on Project Gutenberg, and lets you search them for all sentences containing a particular substring.
 
+#### moment [∞](https://github.com/moment/moment)
+
+> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+
+#### Random.js [∞](https://github.com/ckknight/random-js)
+
+> This is designed to be a mathematically correct random number generator library for JavaScript.
+
 ___  
 
 
@@ -86,15 +94,6 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 #### Treat [∞](https://github.com/louismullie/treat)
 
 > Treat is a toolkit for natural language processing and computational linguistics in Ruby. 
-
-#### moment [∞](https://github.com/moment/moment)
-
-> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
-
-#### Random.js [∞](https://github.com/ckknight/random-js)
-
-> This is designed to be a mathematically correct random number generator library for JavaScript.
-
 
 ___  
 
