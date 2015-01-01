@@ -4,8 +4,6 @@ T∞lbox
 
 T∞lbox is a collection of simple (yet amazing) tools, APIs and other resources to use in creative coding web projects.  
 
-You can send me suggestions to improve this list [opening an issue](https://github.com/javierarce/toolbox/issues) or via [pull requests](https://github.com/javierarce/toolbox/pulls), but bear in mind that I can't guarantee you that I'll include the tool/API/etc you send.
-
 **Table of contents:**
 
 * [Tools](#tools)
@@ -183,3 +181,9 @@ ___
 #### Project Gutenberg: the CD and DVD Project [∞](http://www.gutenberg.org/wiki/Gutenberg:The_CD_and_DVD_Project)
 
 > CDs and DVDs containing books from the Project Gutenberg. 
+
+___
+
+## Suggestions
+
+You can send me suggestions to improve this list [creating an issue](https://github.com/javierarce/toolbox/issues) or with a [pull requests](https://github.com/javierarce/toolbox/pulls).
