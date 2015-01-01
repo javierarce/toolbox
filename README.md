@@ -70,6 +70,10 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > This is designed to be a mathematically correct random number generator library for JavaScript.
 
+#### wordpos [∞](https://github.com/moos/wordpos)
+
+> Node.js part-of-speech utilities using natural's WordNet module.
+
 ___  
 
 
