@@ -13,6 +13,7 @@ T∞lbox is a collection of simple (yet amazing) tools, APIs and other resources
   * [Python](#python)
 * [APIs](#apis)
 * [Datasets](#datasets)
+* [Suggestions](#suggestions)
 
 ___  
 
