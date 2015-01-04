@@ -94,6 +94,10 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > Treat is a toolkit for natural language processing and computational linguistics in Ruby. 
 
+#### Fitgem [∞](https://github.com/whazzmaster/fitgem)
+
+> Provides access to fitbit.com data through their REST API. 
+
 ___  
 
 ### Node.js
