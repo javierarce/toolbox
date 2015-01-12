@@ -98,6 +98,10 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > Provides access to fitbit.com data through their REST API. 
 
+#### Wikiwhat [∞](https://github.com/BonMatts/wikiwhat)
+
+> A wikipedia gem using the mediawiki API.
+
 ___  
 
 ### Node.js
