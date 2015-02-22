@@ -155,6 +155,10 @@ ___
 
 > Find whole sentences matching a regex in Project Gutenberg plain text files.
 
+#### Audiogrep [∞](https://github.com/antiboredom/audiogrep)
+
+> Audiogrep transcribes audio files and then creates "audio supercuts" based on search phrases. It uses CMU Pocketsphinx for speech-to-text and pydub to stitch things together.
+
 ___
 
 ## APIs
