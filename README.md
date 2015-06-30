@@ -179,6 +179,11 @@ ___
 
 > A very simple API to get gender probability on a name and/or article.
 
+
+#### Museum APIs [∞](http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs)
+
+> A collection of museum, gallery, library, archive, archaeology and cultural heritage APIs, machine-readable, linked and open data services for open cultural data
+
 ___
 
 ## Datasets
