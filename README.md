@@ -102,6 +102,10 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > A wikipedia gem using the mediawiki API.
 
+#### Ruby Natural Language Processing Resources [∞](https://github.com/diasks2/ruby-nlp)
+
+> A collection of Natural Language Processing (NLP) Ruby libraries, tools and software.
+
 ___  
 
 ### Node.js
