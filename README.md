@@ -211,8 +211,8 @@ ___
 #### 200,000+ Jeopardy questions & answers [∞](http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file)
 
 > A json file containing 216,930 Jeopardy questions, answers and other data. See the bottom of the post for a CSV version.
-___
+
 
 ## Suggestions
 
-You can send me suggestions to improve this list [creating an issue](https://github.com/javierarce/toolbox/issues) or with a [pull requests](https://github.com/javierarce/toolbox/pulls).
+Do you know a cool library or API that should be here? Send me suggestions to improve this list by [creating an issue](https://github.com/javierarce/toolbox/issues) or with a [pull request](https://github.com/javierarce/toolbox/pulls).
