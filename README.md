@@ -69,6 +69,10 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > This is designed to be a mathematically correct random number generator library for JavaScript.
 
+#### headtrackr [∞](https://github.com/auduno/headtrackr)
+
+> A JavaScript library for real-time face tracking and head tracking, tracking the position of a users head in relation to the computer screen.
+
 ___  
 
 
