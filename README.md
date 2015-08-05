@@ -73,6 +73,11 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > A JavaScript library for real-time face tracking and head tracking, tracking the position of a users head in relation to the computer screen.
 
+#### Tracery [∞](https://github.com/galaxykate/tracery)
+
+> A story-grammar generation library for JavaScript.
+
+
 ___  
 
 
