@@ -151,10 +151,13 @@ ___
 
 > Reads a list of places and returns a geolocated CSV file.
 
-
 #### Async.js [∞](https://github.com/caolan/async)
 
 > Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. Although originally designed for use with Node.js and installable via npm install async, it can also be used directly in the browser.
+
+#### japanese.js [∞](https://github.com/hakatashi/japanese.js)
+
+> Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.
 
 ___  
   
