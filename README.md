@@ -115,6 +115,11 @@ Several scripts that do various word distance calculations (Levenshtein, Hamming
 
 > A collection of Natural Language Processing (NLP) Ruby libraries, tools and software.
 
+
+#### Namey [∞](https://github.com/muffinista/namey)
+
+> Random name generator based on US Census data.
+
 ___  
 
 ### Node.js
