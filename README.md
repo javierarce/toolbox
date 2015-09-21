@@ -164,6 +164,10 @@ ___
 
 > Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.
 
+#### RiTa [∞](https://github.com/dhowe/RiTa)
+
+> An easy-to-use toolkit for experiments in natural language and generative literature. 
+
 ___  
   
 ### Python
