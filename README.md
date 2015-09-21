@@ -164,9 +164,9 @@ ___
 
 > Util collection for Japanese text processing. Hiraganize, Katakanize, and Romanize.
 
-#### RiTa [∞](https://github.com/dhowe/RiTa)
+#### RiTa.js [∞](https://github.com/dhowe/RiTaJS)
 
-> An easy-to-use toolkit for experiments in natural language and generative literature. 
+> An easy-to-use toolkit for experiments in natural language and generative literature, based on the original RiTa library for Java.
 
 ___  
   
