@@ -77,6 +77,9 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > A story-grammar generation library for JavaScript.
 
+#### guessLanguage.js [∞](https://github.com/richtr/guessLanguage.js)
+
+> A natural language detection library based on trigram statistical analysis.
 
 ___  
 
