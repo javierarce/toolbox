@@ -187,6 +187,10 @@ ___
 
 > Audiogrep transcribes audio files and then creates "audio supercuts" based on search phrases. It uses CMU Pocketsphinx for speech-to-text and pydub to stitch things together.
 
+#### guess-language [∞](https://github.com/dsc/guess-language)
+
+> Attempts to determine the natural language of a selection of Unicode (utf-8) text.
+
 ___
 
 ## APIs
