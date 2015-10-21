@@ -219,6 +219,12 @@ ___
 
 > A database of word frequencies, in various natural languages.
 
+#### Nobel Prize API [∞](https://nobelprize.readme.io)
+
+> Information about who has been awarded the Nobel Prize, when, in what prize
+> category and the motivation, as well as basic information about the Nobel
+> Laureates such as birth data and the affiliation at the time of the award.
+
 ___
 
 ## Datasets
