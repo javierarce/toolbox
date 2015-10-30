@@ -81,6 +81,10 @@ A port of the functionality from Ruby on Rails' Active Support Inflection classe
 
 > A natural language detection library based on trigram statistical analysis.
 
+#### rmutt.js [∞](https://github.com/rstuven/rmutt.js)
+
+> A transpiled language for generating random strings from context-sensitive grammars.
+
 ___  
 
 
