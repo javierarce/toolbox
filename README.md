@@ -21,6 +21,10 @@ ___
 
 ### Javascript 
 
+#### chatter [∞](https://github.com/bocoup/chatter)  
+
+A collection of useful primitives for creating interactive chat bots.
+
 #### Inflection-js [∞](https://github.com/sonnym/inflection-js)  
 
 A port of the functionality from Ruby on Rails' Active Support Inflection classes into Javascript.
