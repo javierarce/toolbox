@@ -1,4 +1,3 @@
-
 T∞lbox
 =====
 
@@ -20,6 +19,58 @@ ___
 ## Tools
 
 ### Javascript 
+
+#### zip.js [∞](http://gildas-lormeau.github.com/zip.js/) 
+
+> An open-source library (BSD license) for zipping and unzipping files.
+
+#### pos2tracery [∞](https://github.com/JKirchartz/pos2tracery)  
+
+> Convert corpus to tracery grammar with a POS tagger
+
+#### dom-to-image [∞](https://github.com/tsayen/dom-to-image)  
+
+> Generates an image from a DOM node using HTML5 canvas
+
+#### chrono [∞](https://github.com/wanasit/chrono)  
+
+> A natural language date parser in Javascript
+
+#### arena-js [∞](https://github.com/ivangreene/arena-js)  
+
+> are.na API wrapper for JavaScript
+
+#### ml5-library [∞](https://github.com/ml5js/ml5-library)  
+
+> A JavaScript machine learning library built on top of deeplearn.js with examples using p5.js.
+
+#### wikipedia-tldr [∞](https://github.com/words/wikipedia-tldr)  
+
+> ⚡️Grab the first paragraph of any Wikipedia page
+
+#### node-wifi [∞](https://github.com/friedrith/node-wifi)  
+
+> NodeJS tool to manage wifi (connections, scans)
+
+#### drawingboard.js [∞](https://github.com/Leimi/drawingboard.js)  
+
+> A canvas based drawing app that you can integrate easily on your website.
+
+#### brain.js [∞](https://github.com/BrainJS/brain.js)  
+
+> 🤖 Neural networks in JavaScript
+
+#### letterboxd [∞](https://github.com/zaccolley/letterboxd)  
+
+> 🎥🎬 get public diary data for letterboxd users
+
+#### steganography.js [∞](https://github.com/petereigenschink/steganography.js)  
+
+> Hide secret messages with JavaScript and this library
+
+
+
+
 
 #### chatter [∞](https://github.com/bocoup/chatter)  
 
@@ -182,6 +233,19 @@ ___
 ___  
   
 ### Python
+
+#### newspaper [∞](https://github.com/codelucas/newspaper)  
+
+> 💡 News, full-text, and article metadata extraction in Python 3. Advanced docs
+
+
+#### youtubegrep [∞](https://github.com/antiboredom/youtubegrep)  
+
+> makes supercuts from youtube searches (alpha)
+
+#### paraphraser [∞](https://github.com/vsuthichai/paraphraser)  
+
+> Paraphraser model that performs paraphrase generation at the sentence level
 
 #### textract [∞](https://github.com/deanmalmgren/textract)
 
