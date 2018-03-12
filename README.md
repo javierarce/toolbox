@@ -20,10 +20,6 @@ ___
 
 ### Javascript 
 
-#### zip.js [∞](http://gildas-lormeau.github.com/zip.js/) 
-
-> An open-source library (BSD license) for zipping and unzipping files.
-
 #### pos2tracery [∞](https://github.com/JKirchartz/pos2tracery)  
 
 > Convert corpus to tracery grammar with a POS tagger
