@@ -147,7 +147,7 @@ ___
 
 #### [Going the Distance](https://github.com/schneems/going_the_distance)
 
-Several scripts that do various word distance calculations (Levenshtein, Hamming, Jaro-Winkler Distance, …)
+> Several scripts that do various word distance calculations (Levenshtein, Hamming, Jaro-Winkler Distance, …)
 
 #### [Beauvoir](https://github.com/OpenGenderTracking/beauvoir)
 
