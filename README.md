@@ -51,7 +51,6 @@ ___
 | [guessLanguage.js](https://github.com/richtr/guessLanguage.js)| A natural language detection library based on trigram statistical analysis. |
 | [rmutt.js](https://github.com/rstuven/rmutt.js)| A transpiled language for generating random strings from context-sensitive grammars. |
 
-
 ### Ruby
 
 | Name    | Description|
@@ -105,8 +104,6 @@ ___
 | [Museum APIs](http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs)| A collection of museum, gallery, library, archive, archaeology and cultural heritage APIs, machine-readable, linked and open data services for open cultural data |
 | [wordfreq](https://github.com/LuminosoInsight/wordfreq)| A database of word frequencies, in various natural languages. |
 | [Nobel Prize API](https://nobelprize.readme.io)| Information about who has been awarded the Nobel Prize, when, in what prize category and the motivation, as well as basic information about the Nobel Laureates such as birth data and the affiliation at the time of the award. |
-
-___
 
 ## Datasets
 
