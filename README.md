@@ -1,7 +1,7 @@
 T∞lbox
 =====
 
-T∞lbox is a collection of simple (yet amazing) tools, APIs and other resources to use in creative coding web projects.  
+T∞lbox is a collection of tools, APIs and other resources to use in creative coding web projects.  
 
 **Table of contents:**
 
@@ -13,8 +13,6 @@ T∞lbox is a collection of simple (yet amazing) tools, APIs and other resources
 * [APIs](#apis)
 * [Datasets](#datasets)
 * [Suggestions](#suggestions)
-
-___  
 
 ## Tools
 
