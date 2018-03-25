@@ -21,7 +21,7 @@ ___
 ### JavaScript
 
 | Name    | Description|
-|---|---|
+|:---|---|
 | [pos2tracery](https://github.com/JKirchartz/pos2tracery) | Convert corpus to tracery grammar with a POS tagger |
 | [dom-to-image](https://github.com/tsayen/dom-to-image)   | Generates an image from a DOM node using HTML5 canvas |
 | [chrono](https://github.com/wanasit/chrono) | A natural language date parser in Javascript |
@@ -55,7 +55,7 @@ ___
 ### Ruby
 
 | Name    | Description|
-|---|---|
+|:---|---|
 | [twitter_ebooks](https://github.com/mispy/twitter_ebooks)| A framework for building interactive twitterbots which respond to mentions/DMs.  |
 | [RAE downloader](https://github.com/raul/rae-downloader)| Scripts to download data from the Dictionary of Spanish Language of the Royal Spanish Academy |
 | [Going the Distance](https://github.com/schneems/going_the_distance)| Several scripts that do various word distance calculations (Levenshtein, Hamming, Jaro-Winkler Distance, …) |
@@ -85,7 +85,7 @@ ___
 ### Python
 
 | Name    | Description|
-|---|---|
+|:---|---|
 | [newspaper](https://github.com/codelucas/newspaper) | 💡 News, full-text, and article metadata extraction in Python 3. Advanced docs |
 | [youtubegrep](https://github.com/antiboredom/youtubegrep) | makes supercuts from youtube searches (alpha) |
 | [paraphraser](https://github.com/vsuthichai/paraphraser) | Paraphraser model that performs paraphrase generation at the sentence level |
@@ -97,7 +97,7 @@ ___
 ## APIs
 
 | Name    | Description|
-|---|---|
+|:---|---|
 | [Wordnik API](http://api.wordnik.com)| The Wordnik API lets you request definitions, example sentences, spelling suggestions, related words like synonyms and antonyms, phrases containing a given word, word autocompletion, random words, words of the day, and much more. |
 | [Wikipedia API](http://www.mediawiki.org/wiki/API:Main_page)| The MediaWiki web API can be used to monitor a MediaWiki installation, or create a bot to automatically maintain one. It provides direct, high-level access to the data contained in MediaWiki databases. |
 | [Open Library Covers API](https://openlibrary.org/dev/docs/api/covers)| Our Covers API provides a programmatic method to access the book covers and author photos available in the Open Library Covers Repository. |
@@ -111,7 +111,7 @@ ___
 ## Datasets
 
 | Name    | Description|
-|---|---|
+|:---|---|
 | [Corpora](https://github.com/dariusk/corpora)| A collection of small corpuses of interesting data for the creation of bots and similar stuff. |
 | [Countries](https://github.com/mledoze/countries)| This repository contains lists of world countries in JSON, CSV and XML. |
 | [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)| This list of public data sources are collected and tidyed from blogs, answers, and user reponses. Most of the data sets listed below are free, however, some are not. |
