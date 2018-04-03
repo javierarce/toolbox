@@ -67,7 +67,7 @@ T∞lbox is a collection of tools, APIs and other resources to use in creative c
 
 | Name    | Description|
 |---|---|
-[ [silabea](https://github.com/javierarce/silabea)| Node package that split Spanish words into syllables |
+| [silabea](https://github.com/javierarce/silabea)| Node package that split Spanish words into syllables |
 | [wikichanges](https://github.com/edsu/wikichanges)| a node.js library for getting an edit stream from the 37 major language Wikipedias. The Wikipedia MediaWiki installations are configured to log changes in specific IRC channels. wikichanges joins all these channels, listens for updates, which it then parses, and sends as JavaScript objects to a callback of your choosing. x |
 | [country-reverse-geocoding](https://github.com/totemstech/country-reverse-geocoding)| NodeJS module to reverse geocoding of countries. |
 | [gender-probability](https://github.com/dariusk/gender-probability)| Providing gender probabilities for US/UK names using Open Gender Tracker's Global Name Data resource. |
